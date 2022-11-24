@@ -331,7 +331,8 @@ footer {
         font-size: 18px;
     }
     .watch-sec .container div img,
-    .down-sec .container div img {
+    .down-sec .container div img,
+    .faq{
         width: 100%;
     }
 }
